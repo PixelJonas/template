@@ -9,7 +9,6 @@ import { FormsRoutes } from './forms.routing';
 import { ExtendedFormsComponent } from './extendedforms/extendedforms.component';
 import { RegularFormsComponent } from './regularforms/regularforms.component';
 import { ValidationFormsComponent } from './validationforms/validationforms.component';
-import { WizardComponent } from './wizard/wizard.component';
 
 
 @NgModule({
@@ -23,7 +22,6 @@ import { WizardComponent } from './wizard/wizard.component';
       ExtendedFormsComponent,
       RegularFormsComponent,
       ValidationFormsComponent,
-      WizardComponent,
       EqualValidator
   ]
 })
