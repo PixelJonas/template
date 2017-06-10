@@ -1,6 +1,8 @@
-# MdProAngularCli
+# Awesome Material Design Template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
+
+Ready to Go on Angular 4.0.0 and Typescript 2.2.0. Deploy to Heroku with ease.
 
 ## Development server
 
